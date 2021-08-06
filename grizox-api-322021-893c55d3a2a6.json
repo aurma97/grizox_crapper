@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grizox-api-322021",
+  "private_key_id": "893c55d3a2a6e3926a854d779d4bb09b1eb697be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzbxoz9RWVV+tY\n1nGnHoO5qcJPtf4zHQDLwKPkJjdtzsK6p2LtS/Eix/osy1/G5wHiWm+bl5D29cFj\nRyK1UYFQ5fE4IGJoH60DAASvzYshr9BeIBbSNiUXvP0qPV4fBuo+9VBE0DaE7cdG\nyYI7kFPD+xaKfC0KnEwABMpuWwk2F6H+P2KOKdqVB4869RvNsqS2DLWgEZQiGbB6\nF6QrC3fBxZ4L/5fOhH9hl6w1in+MTDIvXHyXF/V2BvX8fW4uvQ9yQK9tBl2TLiB3\nzcvY4l5pOdPqxiVfYfd6/dzeWcAtPf5wBhkv8KTSXaP959wzh7ek1u2xOl75Yvid\n6ZlUncllAgMBAAECggEACjO9t2kOtFpWnws4VJJzVmXczrfwD1ttjWgzWVhD7Aom\nv8KfKRNZj0r0AkKA/Ffrn0FZmazlOOlxuLGVe146Pk2IqNKMjdOJPIOugIltCPoM\nXKGx8ntSIhakhVeOZ7C2tmQvz23QP8AeRbvU3AqhfKHk3vRfAjyvRIwBL4OdEzZt\n4mZL8ifSYHkuP1YNeZLjy1p3X12kk0q96Vfq7RqrZZPTZCmfvFfdNlQADMxyGe6i\nEZ+PJN2y+4DtTbki8JTpZLJUiDCIJbVjgROuSdEjA8bYALebT2WowMy8xWjvK++J\nHo8fhvmZtwHD9n94QgwoEFD8FX8zwbbxQBhpyZwwAQKBgQDfkQTft9E6jdOEh4+i\nRO0tmimZTtOYTRSPkde4aQScHEMu9tcq5F4cUDuBEvESvsvVDkUgOi0+tfPqaN9h\nq6PTuTmk8SDVR9vdYSS1d9olN9iopgPhPjlWLACl2UBCfPje7pWUr2GMkO0u7gxV\nOU8SAdUGjWzUSPkNDn+4FXzZZQKBgQDNdw7CN8xnDdii1vaaYdgKfeyB2lpGlYj0\nCgLcYmeOQRHD4O0kjod+Pksn7+o1P6IhcbQ5EpM7iXIOTBX05ebkzr00hzGUTO7w\nZCBPul3jj+N6IlCHSQZoA5tTwvFdEGvMYxuzBhJ06Oa2WEp/VUqWdJz8oKp4INA4\nMcds5gYwAQKBgQC+14RZlQg9+6N7lly+ICh2rQqlm+x0LhhHFjAXc05EFLwk8wFp\n09eiQ7sHy6uOXOCS1sObZw4IYjn899j3/xSyP4M9kbh9WAIPUEWNwumsq6d/D3hw\nZjV7ocRLztBT8Wpgozl82tlirLRLQ1mzxmAA9x9poIAuFrzCsIXGFlGlIQKBgAb0\n8Af9catPmbUxyBnEFFeOmfJvnTzklUWGDUC/CDiV1W8nb4AcX1QT8eGBSxHQfMHb\nIroH+fo7FiSLyPaIzj+TDG754ODflfuHuFxauBEbbx1Uiht6in/9F0ZHxHpdMvkx\npd9y5i8VL7Ke3K7hCWx8uFAJdJwqqEIu1UzHoRABAoGBAKuKgqWDFwcPFgVnlhtS\nTOrQmeqvg9/JZRKCJtIkXEGNcjyUx/LxN8HMz4rggy7BiXz67MShb3pni8J5XBr5\ng/DsssofjdNvyFEngzRFOMyNmfc3colxJPJlLFkvPlX5P/k9Re7Nc8rR1N8WITvC\nOvZV9slzH+ZvKstMLZczCf4L\n-----END PRIVATE KEY-----\n",
+  "client_email": "grizox-api-service@grizox-api-322021.iam.gserviceaccount.com",
+  "client_id": "102564555986816015019",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grizox-api-service%40grizox-api-322021.iam.gserviceaccount.com"
+}
